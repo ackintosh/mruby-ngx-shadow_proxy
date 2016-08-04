@@ -1,0 +1,6 @@
+name: mruby-ngx-shadow_proxy
+description: Nginx Shadow Proxy
+author: NAKANO Akihito
+website: https://github.com/ackintosh/mruby-ngx-shadow_proxy
+protocol: git
+repository: https://github.com/ackintosh/mruby-ngx-shadow_proxy.git
