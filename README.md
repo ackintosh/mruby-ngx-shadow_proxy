@@ -1,4 +1,4 @@
-# HTTP shadow proxy logic written in ngx_mruby.
+# HTTP shadow proxy for ngx_mruby.
 
 ## install by mrbgems
  - add conf.gem line to `build_config.rb`
@@ -7,7 +7,7 @@ MRuby::Build.new do |conf|
 
     # ... (snip) ...
 
-    conf.gem :github => 'ackintosh/ngx_mruby-shadow_proxy'
+    conf.gem :github => 'ackintosh/mruby-ngx-shadow_proxy'
 end
 ```
 
